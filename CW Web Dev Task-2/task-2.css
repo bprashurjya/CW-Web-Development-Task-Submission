@@ -1,0 +1,232 @@
+
+
+
+.top{
+  position: relative;
+  background-color: #656CEC;
+  width: 100% ;
+  left: 0px;
+  top: -110px;
+  height: 180px;
+  padding-bottom: -20px;
+  font-family: 'Segoe UI';
+  font-size: 64px;
+  
+  
+   ;
+}
+
+#middle{
+  position: relative;
+  background-color: #656CEC;
+  width: 100% ;
+  left: 0px;
+  top: 0px;
+  height: 360px;
+  margin-top: -116px;
+  margin-bottom: 20 px;
+  
+  
+
+}
+
+.top .leader{
+ 
+  position: absolute;
+  font-family: 'Segoe UI';
+  font-size: 64px;
+ z-index: 2;
+  left: 600px;
+  top: 30px;
+  padding: 0px;
+  color:white ;
+}
+
+
+
+#eli1{
+  top: 70px;
+  left: 446px;
+  opacity: 1;
+  width: 36px;
+  height:36px;
+  position: absolute;
+  border-radius: 50%;
+}
+
+#span1{
+  position: absolute;
+  top: 75px;
+  left:459px ;
+  font-size: 20px;
+}
+
+#num2{
+  position: absolute;
+  top: 306px;
+  font-size: 20px;
+  left: 525px;
+
+
+}
+#d2{
+  position: absolute;
+  top: 306px;
+  font-size: 20px;
+  left: 515px;
+
+}
+
+#ellipse2{
+  top: 120px;
+  left: 380px;
+  opacity: 1;
+  width: 160px;
+  height:160px;
+  position: absolute;
+  border-radius: 50%;
+  border: 5px white solid;
+}
+
+#name1{
+  width: 200px;
+  height: 35px;
+  position: absolute;
+  top: 300px;
+  left: 370px;
+
+}
+
+#n2{
+
+  position: absolute;
+  top: 306px;
+  font-size: 20px;
+  left: 385px;
+
+}
+
+#eli3{
+  top: 10px;
+  left: 768px;
+  opacity: 1;
+  width: 36px;
+  height:36px;
+  position: absolute;
+  border-radius: 50%;
+}
+
+#span2{
+  position: absolute;
+  top: 15px;
+  left:781px ;
+  font-size: 20px;
+}
+
+#name2{
+  width: 200px;
+  height: 35px;
+  position: absolute;
+  top: 300px;
+  left: 689px;
+
+}
+
+#n1{
+
+  position: absolute;
+  top: 305px;
+  font-size: 20px;
+  left: 720px;
+
+}
+
+#num1{
+  position: absolute;
+  top: 306px;
+  font-size: 20px;
+  left: 835px;
+
+}
+
+#d1{
+  position: absolute;
+  top: 306px;
+  font-size: 20px;
+  left: 825px;
+
+}
+
+#ellipse1{
+  top: 60px;
+  left: 675px;
+  opacity: 1;
+  width: 215px;
+  height:215px;
+  position: absolute;
+  border-radius: 50%;
+  border: 5px white solid;
+}
+
+#eli5{
+  top: 70px;
+  left: 1085px;
+  opacity: 1;
+  width: 36px;
+  height:36px;
+  position: absolute;
+  border-radius: 50%;
+}
+
+#span3{
+  position: absolute;
+  top: 75px;
+  left:1099px ;
+  font-size: 20px;
+}
+
+#name3{
+  width: 200px;
+  height: 35px;
+  position: absolute;
+  top: 300px;
+  left: 1010px;
+
+}
+
+#num3{
+  position: absolute;
+  top: 306px;
+  font-size: 20px;
+  left: 1160px;
+}
+#d3{
+  position: absolute;
+  top: 306px;
+  font-size: 20px;
+  left: 1140px;
+
+}
+
+#n3{
+
+  position: absolute;
+  top: 306px;
+  left: 1020px;
+  font-size: 20px;
+
+}
+
+#ellipse3{
+  top: 120px;
+  left: 1020px;
+  opacity: 1;
+  width: 160px;
+  height:160px;
+  position: absolute;
+  border-radius: 50%;
+  border: 5px white solid;
+}
+
+
+
