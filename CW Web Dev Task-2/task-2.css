@@ -102,7 +102,7 @@
   position: absolute;
   top: 306px;
   font-size: 20px;
-  left: 385px;
+  left: 400px;
 
 }
 
@@ -137,7 +137,7 @@
   position: absolute;
   top: 305px;
   font-size: 20px;
-  left: 720px;
+  left: 700px;
 
 }
 
@@ -145,7 +145,7 @@
   position: absolute;
   top: 306px;
   font-size: 20px;
-  left: 835px;
+  left: 855px;
 
 }
 
@@ -153,7 +153,7 @@
   position: absolute;
   top: 306px;
   font-size: 20px;
-  left: 825px;
+  left: 845px;
 
 }
 
@@ -204,7 +204,7 @@
   position: absolute;
   top: 306px;
   font-size: 20px;
-  left: 1140px;
+  left: 1150px;
 
 }
 
@@ -227,6 +227,8 @@
   border-radius: 50%;
   border: 5px white solid;
 }
+
+
 
 
 
